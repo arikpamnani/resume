@@ -1,4 +1,6 @@
 *.log
 *.gz
 *.out
+*.cpp
+*.py
 
